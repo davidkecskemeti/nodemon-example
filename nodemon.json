@@ -1,4 +1,4 @@
 {
-    "delay": 2000,
-    "ignore":["docs/*","disc/*","*/*.css"]
+  "delay": 2000,
+  "ignore": ["docs/*", "disc/*", "*/*.css"]
 }
